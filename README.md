@@ -9,5 +9,6 @@ upon a page refresh.
 
 Webpage Snapshot:
 
+https://github.com/Cragar777/UOTSCS-Assignment5-Workday-Scheduler/blob/main/assets/images/Workday%20Scheduler.png
 
 Webpage URL:
