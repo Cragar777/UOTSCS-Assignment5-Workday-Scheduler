@@ -1,4 +1,4 @@
-# UOTSCS-Assignment5-Workday-Scheduler
+# Workday-Scheduler
 
 The Workday Scheduler is a simple calendar application that allows a user to 
 save tasks for each hour of the workday. The current date and time of day is 
